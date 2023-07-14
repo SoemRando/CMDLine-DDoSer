@@ -9,6 +9,8 @@ ddos.exe --ddos ip_address \[--port port_num]
 ## requirements
 pip: `pip install argparse`
 
-also uses: socket, random
+also uses: socket, random and 500-900MBpS (depends on your network speed)
 
 but those are already built-in.
+
+
