@@ -8,5 +8,7 @@ ddos.exe --ddos ip_address \[--port port_num]
 
 ## requirements
 pip: `pip install argparse`
+
 also uses: socket, random
+
 but those are already built-in.
